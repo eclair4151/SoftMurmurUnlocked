@@ -1,0 +1,9 @@
+Package: com.shemeshapps.softmurmurunlocked
+Name: SoftMurmurUnlocked
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlocks all premium sounds in "A Soft Murmur" app
+Maintainer: Shemeshapps
+Author: Shemeshapps
+Section: Tweaks
